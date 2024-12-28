@@ -14,5 +14,3 @@ Hi, I'm Rizal, a Information System student passionate about development and acc
 - :pushpin: Interests: UX, UI Design, Video Editing, Programming, Accounting.
 
 ----
-
-Last Edited on: 31/08/2020
